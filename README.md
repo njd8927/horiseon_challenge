@@ -2,7 +2,7 @@
 
 ## Description
 
-Semantic elements such as header, footer, main, section and article were added to the HTML code replacing all div tags. Alt attributes were added to all images to improve website accessibility. CSS stylesheet updated to reflect all HTML code changes; see CSS comments for further detail on changes.
+Semantic elements such as header, footer, main, section and article were added to the HTML code replacing all div tags. Alt attributes were added to all images to improve website accessibility. CSS stylesheet updated to reflect all HTML code changes; see comments within the CSS code for further detail on changes.
 
 ## Installation
 
