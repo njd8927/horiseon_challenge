@@ -1,4 +1,4 @@
-# <horiseon_challenge>
+# horiseon_challenge
 
 ## Description
 
