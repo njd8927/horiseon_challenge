@@ -20,5 +20,5 @@ Link to deployed webpage: https://njd8927.github.io/horiseon_challenge/
 
 The following shows the web application's appearance and functionality:
 
-![Horiseon Marketing Agency Website](../01-HTML-Git-CSS-Copy/02-Challenge/Assets/01-html-css-git-homework-demo.png)
+![Horiseon Marketing Agency Website](./assets/images/readme.png)
 
